@@ -8,5 +8,11 @@
     <meta property="og:type" content="blog"/>
 </head>
 <body>
+<?php
+header("Content-type: application/pdf");
+header("Content-Disposition: inline; filename=riesgos_de_ingenieria_iii.pdf");
+@readfile('riesgos_de_ingenieria_iii.pdf');
+
+?>
 </body>
 </html>
