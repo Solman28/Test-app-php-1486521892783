@@ -8,9 +8,5 @@
     <meta property="og:type" content="blog"/>
 </head>
 <body>
-   <?php
-   $url = "http://escueladesegurosapecose.edu.pe/wp-content/uploads/2017/02/Riesgos-de-ingenieri%CC%81a-III-1.pdf";
-   header('Location: '.$url);
-   ?>
 </body>
 </html>
