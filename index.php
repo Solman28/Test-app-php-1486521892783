@@ -1,21 +1,13 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Starter Application</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="stylesheet" href="style.css" />
+    <meta property="og:site_name" content="Escuela de seguros apecose"/>
+    <meta property="og:title" content="Ramos Técnicos de Ingeniería: seguros, reaseguros, siniestros y ajustes"/>
+    <meta property="og:description" content="El Diplomado Ramos Técnicos de Ingeniería: seguros, reaseguros, siniestros y ajustes elevará los conocimientos de los participantes al nivel de especialistas en riesgos y seguros de ingeniería para operaciones industriales y proyectos. Su contenido y casuística se basan en las exigencias profesionales del mercado. Por su amplitud y profundidad es de lejos una excelente inversión en actualización y capacitación."/>
+    <meta property="og:image" content="postlinkedin.png">
+    <meta property="og:url" content="http://escueladesegurosapecose.edu.pe/wp-content/uploads/2017/02/Riesgos-de-ingenieri%CC%81a-III-1.pdf">
+    <meta property="og:type" content="blog"/>
 </head>
 <body>
-	<table>
-		<tr>
-			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/newapp-icon.png'>
-			</td>
-			<td>
-				<h1 id = "message"><?php echo "Hola Mundooo2!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
-			</td>
-		</tr>
-	</table>
+   ...
 </body>
 </html>
